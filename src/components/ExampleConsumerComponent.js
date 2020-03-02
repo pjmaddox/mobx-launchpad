@@ -11,3 +11,5 @@ const ExampleConsumerComponent = observer(() => {
         </div>
     );
 });
+
+export default ExampleConsumerComponent;
